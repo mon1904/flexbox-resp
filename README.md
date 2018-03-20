@@ -1,2 +1,2 @@
 
-Progressive web application that allowed us to practice flexbox. 
+Progressive web application that allowed me to practice flexbox. 
